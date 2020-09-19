@@ -1,2 +1,2 @@
 # POO-2
-Agenda
+Sistema de inventarios
